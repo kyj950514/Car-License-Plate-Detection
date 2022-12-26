@@ -19,4 +19,5 @@ Conv-ReLU-Pooling-Conv-ReLU-Pooling-Affine-ReLU-Affine-ReLU 로 구성
 테스트 결과 정확도
 
 test acc: 77%
-[테스트 결과](./images/화면 캡처 2022-12-27 010418.png)
+
+![테스트 결과](./images/화면 캡처 2022-12-27 010418.png)
