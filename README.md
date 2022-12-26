@@ -5,7 +5,6 @@ CNN을 직접 구현하여 차량 번호판을 탐지하는 프로젝트입니�
 * CNN 계층 구조
   * Conv-ReLU-Pooling-Conv-ReLU-Pooling-Affine-ReLU-Affine-ReLU 로 구성
 
-![계층 구조](./images/cnn구조.png)
 <img src="./images/cnn구조.png" />
 
 
@@ -16,4 +15,4 @@ CNN을 직접 구현하여 차량 번호판을 탐지하는 프로젝트입니�
 * 테스트 결과 정확도
   * test acc: 77%
 
-![테스트 결과](./images/test_acc.png)
+<img src="./images/test_acc.png" />
