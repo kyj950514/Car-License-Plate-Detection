@@ -1,7 +1,7 @@
 # Car-License-Plate-Detection
 
 CNN을 직접 구현하여 차량 번호판을 탐지하는 프로젝트입니다.
-<br/>
+<br/><br/><br/><br/><br/><br/>
 * CNN 계층 구조
   * Conv-ReLU-Pooling-Conv-ReLU-Pooling-Affine-ReLU-Affine-ReLU 로 구성
 
