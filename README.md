@@ -1,5 +1,5 @@
 # Car-License-Plate-Detection
-CNN을 직접 구현하여 차량 번호판을 인식하는 프로젝트입니다.
+CNN을 직접 구현하여 차량 번호판을 인식하는 딥러닝 프로젝트입니다.
 <br/><br/><br/>
 
 
