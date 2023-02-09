@@ -14,6 +14,11 @@ CNN을 직접 구현하여 차량 번호판을 인식하는 프로젝트입니�
 <img src="./images/N187.jpeg" width="300" height="300"/> <img src="./images/KA11.jpg" width="300" height="300"/>
 <br/><br/><br/>
 
+* 개발 언어 및 환경 /IDE
+  * Python
+  * PyCharm
+<br/><br/><br/>
+
 * input layer : 224 X 224 = 50176
 * ouuput layer : 4
 * 테스트 결과 정확도
